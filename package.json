@@ -1,0 +1,22 @@
+{
+  "name": "volume-of-sphere",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cannon": "^0.6.2",
+    "cannon-es": "^0.20.0",
+    "three": "^0.166.1"
+  },
+  "devDependencies": {
+    "vite": "^5.3.3"
+  }
+}
